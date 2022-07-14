@@ -1,11 +1,18 @@
 <div align='center'>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nice%20to%20meet%20you%20😊&desc=I'm%20Kyubhin%20:%20)&descAlign=50&descAlignY=60&fontSize=70&fontColor=fff&fontAlignY=40" />
 </div>
-
+<div align='left'>
+<a href="https://kyubiblog.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-F54997?style=flat&logo=Bloglovin&logoColor=white"/>
+</a>
+<a href="mailto:lve2514@naver.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+</a>
+</div>
 
 <h4 align='center'>🛠️ Tech Stack 🛠️ </h4>
 <div align='center'>
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Bloglovin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
