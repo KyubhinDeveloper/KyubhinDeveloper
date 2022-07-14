@@ -3,10 +3,6 @@
 </div>
 
 
-
-
-
-
 <h4 align='center'>🛠️ Tech Stack 🛠️ </h4>
 <div align='center'>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
@@ -30,16 +26,32 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 </p>
 <div>
+<div align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyubhinDeveloper&layout=compact">
+</div>
+
+
+<h3>🏫 Education</h3>
+
+------------------------------------------------------------------------------
+
+<ul>
+  <li>수원대학교 관광경영학과 졸업</li>
+  <li>부산IT교육센터 Spring기반 자바(Java) 융합개발자 과정 수료</li>
+</ul>
 
 
 
-<h4>📂 Project</h4>
+<h3>📂 Project</h3>
+
+------------------------------------------------------------------------------
+
 <ul>
   <li>📝 <a href="https://github.com/KyubhinDeveloper/portfolio-library">규빈개발자도서관 : 회원이면 이용 가능한 도서관 웹 서비스</a></li>
 </ul>
 </div>   
 
-------------------------------------------------------------------------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyubhinDeveloper&layout=compact)](https://github.com/KyubhinDeveloper/github-readme-stats)
+
+
 
